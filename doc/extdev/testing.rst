@@ -161,6 +161,10 @@ Utilities
    :members:
    :show-inheritance:
 
+   .. py:attribute:: extras
+
+      A dictionary to store arbitrary data associated with this app.
+
 .. autoclass:: sphinx.testing.util.SphinxTestAppWrapperForSkipBuilding
    :members:
    :show-inheritance:
